@@ -1,6 +1,7 @@
 The code for paper "On implicit gradient regularization in neural-ordinary-differential-equation control"
 
 To launch the first experiment ("Linear Control Problem") use the script named Linear_model_experiment.ipynb
+
 To launch the second experiment ("Kuramoto Oscillators") use the script named Kuramoto_model_experiment.ipynb
 
 The requirements:
