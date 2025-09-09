@@ -1,0 +1,17 @@
+diffrax==0.7.0
+equinox==0.13.0
+jax==0.7.1
+jaxlib==0.7.1
+optax==0.2.5
+numpy
+matplotlib
+torch
+torchcde==0.2.5
+torchsde==0.2.6
+torchdiffeq==0.2.5
+lineax
+fire
+scipy
+networkx
+tqdm
+pynvml
